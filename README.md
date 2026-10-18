@@ -129,6 +129,7 @@ Curated by the team at [SmartQHSE](https://www.smartqhse.com) — the AI-powered
 ## Free tools & calculators
 
 - [SmartQHSE HSE Calculators](https://tools.smartqhse.com) — 21 regulation-cited calculators: TRIR, LTIR, LTIFR, DART, EMR, WBGT, HAV, REBA, RULA, NIOSH lifting, risk matrix, fire load, evacuation, manhours, and more. [Open source](https://github.com/SmartQHSE/hse-calculators) (MIT).
+- [PassCited free safety calculators](https://passcited.com/tools) — Free, no sign-up safety calculators (TRIR/DART, noise dose, NRR, NIOSH lifting, sling angle, ventilation), each citing its OSHA or NIOSH source.
 - [OSHA $afety Pays](https://www.osha.gov/safetypays/estimator) — Estimate direct and indirect costs of workplace injuries.
 - [NIOSH Lifting Equation Calculator](https://www.cdc.gov/niosh/topics/ergonomics/nlecalc.html) — Official NIOSH calculator.
 - [HSE UK Vibration Calculator](https://www.hse.gov.uk/vibration/hav/vibrationcalc.htm) — HAV / WBV exposure calculator.
